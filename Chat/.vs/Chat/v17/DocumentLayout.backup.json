@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC800212-BCBA-49E5-B4C6-25E96E582CC7}|Chat\\ChatClient.csproj|c:\\users\\daniil\\desktop\\seva\\task10-opp\\chat\\chat\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC800212-BCBA-49E5-B4C6-25E96E582CC7}|Chat\\ChatClient.csproj|solutionrelative:chat\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC800212-BCBA-49E5-B4C6-25E96E582CC7}|Chat\\ChatClient.csproj|C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\chat\\net\\io\\packetreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC800212-BCBA-49E5-B4C6-25E96E582CC7}|Chat\\ChatClient.csproj|solutionrelative:chat\\net\\io\\packetreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC800212-BCBA-49E5-B4C6-25E96E582CC7}|Chat\\ChatClient.csproj|C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\chat\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC800212-BCBA-49E5-B4C6-25E96E582CC7}|Chat\\ChatClient.csproj|solutionrelative:chat\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7254AC-AB99-419B-B91B-0CB22A67267D}|ChatServer\\ChatServer.csproj|c:\\users\\daniil\\desktop\\seva\\task10-opp\\chat\\chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7254AC-AB99-419B-B91B-0CB22A67267D}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7254AC-AB99-419B-B91B-0CB22A67267D}|ChatServer\\ChatServer.csproj|c:\\users\\daniil\\desktop\\seva\\task10-opp\\chat\\chatserver\\packetreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7254AC-AB99-419B-B91B-0CB22A67267D}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\packetreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7254AC-AB99-419B-B91B-0CB22A67267D}|ChatServer\\ChatServer.csproj|c:\\users\\daniil\\desktop\\seva\\task10-opp\\chat\\chatserver\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7254AC-AB99-419B-B91B-0CB22A67267D}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7254AC-AB99-419B-B91B-0CB22A67267D}|ChatServer\\ChatServer.csproj|c:\\users\\daniil\\desktop\\seva\\task10-opp\\chat\\chatserver\\net\\io\\packetbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7254AC-AB99-419B-B91B-0CB22A67267D}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\net\\io\\packetbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC800212-BCBA-49E5-B4C6-25E96E582CC7}|Chat\\ChatClient.csproj|C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\chat\\mvvm\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC800212-BCBA-49E5-B4C6-25E96E582CC7}|Chat\\ChatClient.csproj|solutionrelative:chat\\mvvm\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC800212-BCBA-49E5-B4C6-25E96E582CC7}|Chat\\ChatClient.csproj|C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\chat\\mvvm\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC800212-BCBA-49E5-B4C6-25E96E582CC7}|Chat\\ChatClient.csproj|solutionrelative:chat\\mvvm\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniil\\Desktop\\ChatClient\\ChatServer\\Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniil\\Desktop\\ChatClient\\ChatServer\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\Chat\\MVVM\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Chat\\MVVM\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\Chat\\MVVM\\View\\MainWindow.xaml",
+              "RelativeToolTip": "Chat\\MVVM\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T19:00:17.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PacketReader.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\Chat\\Net\\IO\\PacketReader.cs",
+              "RelativeDocumentMoniker": "Chat\\Net\\IO\\PacketReader.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\Chat\\Net\\IO\\PacketReader.cs",
+              "RelativeToolTip": "Chat\\Net\\IO\\PacketReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:27:06.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\ChatServer\\Program.cs",
+              "RelativeDocumentMoniker": "ChatServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\ChatServer\\Program.cs",
+              "RelativeToolTip": "ChatServer\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:17:52.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PacketBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\ChatServer\\Net\\IO\\PacketBuilder.cs",
+              "RelativeDocumentMoniker": "ChatServer\\Net\\IO\\PacketBuilder.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\ChatServer\\Net\\IO\\PacketBuilder.cs",
+              "RelativeToolTip": "ChatServer\\Net\\IO\\PacketBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:26:08.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\ChatServer\\Client.cs",
+              "RelativeDocumentMoniker": "ChatServer\\Client.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\ChatServer\\Client.cs",
+              "RelativeToolTip": "ChatServer\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:21:57.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PacketReader.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\ChatServer\\PacketReader.cs",
+              "RelativeDocumentMoniker": "ChatServer\\PacketReader.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\ChatServer\\PacketReader.cs",
+              "RelativeToolTip": "ChatServer\\PacketReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:17:50.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\Chat\\MVVM\\Model\\UserModel.cs",
+              "RelativeDocumentMoniker": "Chat\\MVVM\\Model\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\Chat\\MVVM\\Model\\UserModel.cs",
+              "RelativeToolTip": "Chat\\MVVM\\Model\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:47:13.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\Chat\\MVVM\\Core\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Chat\\MVVM\\Core\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\Chat\\MVVM\\Core\\RelayCommand.cs",
+              "RelativeToolTip": "Chat\\MVVM\\Core\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T20:02:35.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\ChatClient\\ChatServer\\Client.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\ChatClient\\ChatServer\\Client.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\ChatClient\\ChatServer\\Client.cs",
+              "RelativeToolTip": "..\\..\\..\\ChatClient\\ChatServer\\Client.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T20:31:36.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\Chat\\App.xaml",
+              "RelativeDocumentMoniker": "Chat\\App.xaml",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\Seva\\Task10-OPP\\Chat\\Chat\\App.xaml",
+              "RelativeToolTip": "Chat\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-13T20:03:22.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniil\\Desktop\\ChatClient\\ChatServer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\ChatClient\\ChatServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniil\\Desktop\\ChatClient\\ChatServer\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\ChatClient\\ChatServer\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T20:31:58.195Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

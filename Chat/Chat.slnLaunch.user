@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "2 проекта",
+    "Projects": [
+      {
+        "Path": "ChatServer\\ChatServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Chat\\ChatClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

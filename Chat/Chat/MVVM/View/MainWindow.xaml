@@ -1,0 +1,73 @@
+﻿<Window x:Class="Chat.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Chat"
+        xmlns:viewmodel="clr-namespace:Chat.MVVM.ViewModel"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Task10" Height="500" Width="850"
+        Background="#FF1E1E1E" Cursor="">
+    
+   
+    <Window.DataContext>
+        <viewmodel:MainViewModel/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <DockPanel Grid.Column="0">
+            <TextBox Height="25"
+                      DockPanel.Dock="Top"
+                      Text="{Binding UserName, UpdateSourceTrigger=PropertyChanged}" 
+                      Background="#FF2A2A2A" 
+                Foreground="White"/>
+                <Button Height="25"
+                    DockPanel.Dock="Top"
+                    Content="Подключиться"
+                    Command="{Binding ConnectToServerCommand}"
+                    Background="Gold" 
+                    Foreground="White"
+                    
+                    Style="{StaticResource MaterialDesignFlatButton}">
+                </Button>
+
+                <ListView ItemsSource="{Binding Users}" Background="#FF2A2A2A">
+                    
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding UserName}" Foreground="White"/>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+        </DockPanel>
+
+        <StackPanel Grid.Column="1">
+            <ListView Height="380" ItemsSource="{Binding Messages}" Background="#FF2A2A2A">
+              
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding}" TextWrapping="Wrap" Foreground="White"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <StackPanel Orientation="Horizontal">
+                <TextBox Height="55" Width="535" VerticalContentAlignment="Center"
+                         Text="{Binding Message, UpdateSourceTrigger=PropertyChanged}" 
+                         Background="#FF2A2A2A" 
+                    Foreground="White"/>
+                    <Button Width="105" Content="Отправить" Command="{Binding SendMessageCommand}"
+                        Background="Gold" 
+                        Foreground="White"
+                        
+                        Style="{StaticResource MaterialDesignFlatButton}">
+                    </Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
