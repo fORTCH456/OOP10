@@ -11,16 +11,7 @@
   </p>
 </div>
 
-<div class="tech-specs">
-  <p>
-    <strong>Технические требования:</strong>
-    <ul>
-      <li>Платформа .NET 8.0</li>
-      <li>WPF для клиентского интерфейса</li>
-      <li>Сетевая клиент-серверная архитектура</li>
-    </ul>
-  </p>
-</div>
+
 
 <div class="launch-instructions">
   <p>
